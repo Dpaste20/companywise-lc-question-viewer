@@ -9,7 +9,7 @@ Follow the steps below to set up the project on your local machine:
 
 1. Clone this repository:
     ```bash
-    git clone <repo_url>
+    git clone https://github.com/Dpaste20/companywise-lc-question-viewer.git
     ```
    
 2. Navigate to the project directory:
